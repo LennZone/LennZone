@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<i class="fas fa-times"></i>
+
 <!--
 **LennZone/LennZone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
